@@ -1,4 +1,4 @@
-# CSC415-Device-Driver
+# CSC415-Device-Driver (TRANSLATOR)
 
 ## SETUP REQUIREMENTS:
 
